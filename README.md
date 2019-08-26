@@ -8,6 +8,8 @@
 
 <https://www.instructables.com/id/Connect-the-Raspberry-Pi-to-network-using-UART/>
 
+<https://raspberry-projects.com/pi/command-line/io-pins-command-line/io-pin-control-from-the-command-line>
+
 # Notes
 
 * I'm using my MODEL B rev 1.0.
